@@ -1,0 +1,17 @@
+{
+  "name": "behnaz-exhibit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jceipek",
+  "license": "UNDEFINED",
+  "private": true,
+  "dependencies": {
+    "milligram": "^1.4.1",
+    "postcss-cli": "^7.1.1",
+    "postcss-easy-import": "^3.0.0",
+    "precss": "^4.0.0",
+    "three": "^0.118.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
